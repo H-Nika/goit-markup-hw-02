@@ -48,7 +48,11 @@ a {
   color: #434455;
   font-style: normal;
 }
+.contacts-list {
+}
+
 .contacts-list-link {
+  color: #434455;
   font-size: 16px;
   letter-spacing: 0.02em;
 }
