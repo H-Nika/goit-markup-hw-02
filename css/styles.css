@@ -1,6 +1,6 @@
 body {
   font-family: Roboto, sans-serif;
-  color: "#434455";
+  color: #434455;
   background-color: #ffffff;
   line-height: 1.5;
 }
@@ -35,6 +35,7 @@ a {
 .foreword-menu-item {
 }
 .foreword-menu-link {
+  color: #2e2f42;
   font-size: 16px;
   font-weight: 500;
   letter-spacing: 0.02em;
@@ -44,6 +45,7 @@ a {
   color: #404bbf;
 }
 .contacts-all {
+  color: #434455;
   font-style: normal;
 }
 .contacts-list-link {
